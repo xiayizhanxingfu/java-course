@@ -1,5 +1,6 @@
 # 1. 下载JDK
 >[官网下载](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+>建议下载zip文件的java,如果下载exe文件的java删除不干净
 >![下载](img/downnload.png)![下载1](img/downnload1.png)
 # 2. 安装JDK
 >解压文件到指定目录,如我的安装目录
