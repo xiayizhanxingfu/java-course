@@ -11,7 +11,7 @@
 >![](img/4.png)
 >1. 新建变量名"JAVA_HOME",变量值"C:\Program Files\Java\jdk1.8.0_65"
 >2. 新建变量名"CLASSPATH",变量值".;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar"  
->3. 如果存在path的话双击Path项,不存在的话新建变量名"Path",变量值"%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin",
+>3. 如果存在path的话双击Path项,不存在的话新建变量名"Path",变量值"%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin"
 >![](img/5.png)
 
 # 4. 测试是否安装成功
